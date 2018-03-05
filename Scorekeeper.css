@@ -1,0 +1,32 @@
+.mystyle{
+
+	color: green;
+}
+
+body{
+background-image: url(https://source.unsplash.com/random);	
+background-repeat: no-repeat;
+background-size: cover;
+padding-top: 15%;
+}
+
+h1{
+
+	margin-top: 0%;
+	color: teal;
+}
+
+h2{
+
+	color: teal;
+}
+
+.container{
+
+}
+
+
+.jumbotron{
+
+	max-width: 60%;
+}
